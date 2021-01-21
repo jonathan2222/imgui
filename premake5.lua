@@ -1,4 +1,4 @@
-project "glfw"
+project "imgui"
 	kind "StaticLib"
 	language "C++"
 
