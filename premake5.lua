@@ -17,11 +17,7 @@ project "imgui"
 		"imgui_widgets.cpp",
         "imgui_rectpack.h",
         "imgui_textedit.h",
-        "imgui_truetype.h",
-        "backends/imgui_impl_glfw.cpp",
-        "backends/imgui_impl_glfw.h",
-        "backends/imgui_impl_opengl3.cpp",
-        "backends/imgui_impl_opengl3.h"
+        "imgui_truetype.h"
 	}
 
 	filter "system:windows"
